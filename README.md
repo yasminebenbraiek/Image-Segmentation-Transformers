@@ -1,4 +1,4 @@
-# Medical Transformers
+# Image Segmentation Transformers
 
 Welcome to the Medical Transformers Exploration repository, focusing on the LeViT-UNet model. The goal of this project is to provide a simplified and accessible way for everyone to explore and understand the capabilities of the LeViT-UNet model in the medical domain.
 
